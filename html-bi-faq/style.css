@@ -168,3 +168,15 @@ ul {
 	justify-content: center;
 	letter-spacing:0;
 }
+.h1_question {
+color:rgba(255, 255, 255, 1);
+	width: 80%;
+	height: auto;
+	display: flex;
+	flex-direction: column;
+	font-family:Inter;
+	text-align:left;
+	font-size:2vw;
+	letter-spacing:0;
+	margin-bottom: 50px;
+}
