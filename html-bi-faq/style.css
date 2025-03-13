@@ -40,7 +40,6 @@ height: auto;
 	width: 100%;
 }
 .circle-black {
-    border-radius:50%;
     background-color:rgba(0, 0, 0, 1);
     display: flex;
     justify-content: space-around;
@@ -62,7 +61,6 @@ height: auto;
 }
 
 .circle-red {
-    border-radius: 50%;
     display: flex;
     justify-content: space-around;
     flex-direction: column;
