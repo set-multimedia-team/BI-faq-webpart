@@ -12,6 +12,7 @@ a { color:white } /* Globally */
 a:visited { text-decoration: none; color:white; }
 a:link { text-decoration: none; color:white; }
 a:hover { text-decoration: underline; color:white; }
+a:active { text-decoration: underline; color:white; }
 a:focus { text-decoration: none; color:white; }
 a:hover, a:active { text-decoration: none; color:white }
 
