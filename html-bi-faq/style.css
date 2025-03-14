@@ -47,6 +47,7 @@ height: auto;
     flex-direction: column;
 	width: 45vh;
 	height: 45vh;
+	padding: 10px;
 }
 
 
@@ -68,6 +69,7 @@ height: auto;
     background-image: url("Images/red_background.jpg");
 	width: 45vh;
 	height: 45vh;
+	padding: 10px;
 }
 
 .circle-red img {
