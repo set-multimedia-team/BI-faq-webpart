@@ -192,3 +192,14 @@ color:rgba(255, 255, 255, 255);
 	margin: 0 auto;
 	margin-bottom: 50px;
 }
+.h2_text { 
+	color:rgba(255, 255, 255, 1);
+	width: 100%;
+	height: auto;
+	display: flex;
+	font-family:Inter;
+	text-align:center;
+	justify-content: space-around; 
+	font-size:2vw;
+	letter-spacing:0;
+}
