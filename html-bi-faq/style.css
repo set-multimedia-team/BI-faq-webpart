@@ -41,7 +41,7 @@ height: auto;
 	width: 100%;
 }
 .circle-black {
-    background-color:rgba(0, 0, 0, 1);
+ background-image: url("Images/black-tread.jpg");
     display: flex;
     justify-content: space-around;
     flex-direction: column;
@@ -65,7 +65,7 @@ height: auto;
     display: flex;
     justify-content: space-around;
     flex-direction: column;
-    background-color:rgba(209.00000274181366, 32.00000189244747, 49.00000087916851, 1);
+    background-image: url("Images/red_background.jpg");
 	width: 45vh;
 	height: 45vh;
 }
