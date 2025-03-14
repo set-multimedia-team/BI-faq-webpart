@@ -44,8 +44,8 @@ height: auto;
     display: flex;
     justify-content: space-around;
     flex-direction: column;
-	width: 35vh;
-	height: 35vh;
+	width: 50h;
+	height: 50vh;
 }
 
 
@@ -65,8 +65,8 @@ height: auto;
     justify-content: space-around;
     flex-direction: column;
     background-color:rgba(209.00000274181366, 32.00000189244747, 49.00000087916851, 1);
-	width: 35vh;
-	height: 35vh;
+	width: 50vh;
+	height: 50vh;
 }
 
 .circle-red img {
@@ -169,7 +169,7 @@ ul {
 	letter-spacing:0;
 }
 .h1_question {
-color:rgba(255, 255, 255, 1);
+color:rgba(255, 255, 255, 255);
 	width: 80%;
 	height: auto;
 	display: flex;
