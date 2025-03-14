@@ -44,8 +44,8 @@ height: auto;
     display: flex;
     justify-content: space-around;
     flex-direction: column;
-	width: 50h;
-	height: 50vh;
+	width: 22%vh;
+	height: 22%vh;
 }
 
 
@@ -65,8 +65,8 @@ height: auto;
     justify-content: space-around;
     flex-direction: column;
     background-color:rgba(209.00000274181366, 32.00000189244747, 49.00000087916851, 1);
-	width: 50vh;
-	height: 50vh;
+	width: 22%vh;
+	height: 22%vh;
 }
 
 .circle-red img {
