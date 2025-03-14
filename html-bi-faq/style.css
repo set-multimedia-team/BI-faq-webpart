@@ -44,8 +44,8 @@ height: auto;
     display: flex;
     justify-content: space-around;
     flex-direction: column;
-	width: 22vh;
-	height: 22vh;
+	width: 35vh;
+	height: 35vh;
 }
 
 
@@ -65,8 +65,8 @@ height: auto;
     justify-content: space-around;
     flex-direction: column;
     background-color:rgba(209.00000274181366, 32.00000189244747, 49.00000087916851, 1);
-	width: 22vh;
-	height: 22vh;
+	width: 35vh;
+	height: 35vh;
 }
 
 .circle-red img {
@@ -178,5 +178,17 @@ color:rgba(255, 255, 255, 1);
 	text-align:left;
 	font-size:2vw;
 	letter-spacing:0;
+	margin-bottom: 50px;
+}
+.p_text { 
+	color:rgba(255, 255, 255, 1);
+	width: fit-content;
+	height: auto;
+	display: flex;
+	font-family:Inter;
+	text-align:center;
+	font-size:2vw;
+	letter-spacing:0;
+	margin: 0 auto;
 	margin-bottom: 50px;
 }
